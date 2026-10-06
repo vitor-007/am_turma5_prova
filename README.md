@@ -113,7 +113,7 @@ print("\nRelatório de Desempenho:\n", classification_report(y_test, y_pred))
 
 ---
 
-### Prova Prática 2: Classificação da Situação de Trabalho do Estudante Graduando
+### Prova Prática 2: Classificação da Situação de Trabalho do Estudante Graduando - (escolhi essa) - Vitor Reina
 * **Objetivo Pedagógico:** Prever se o estudante universitário precisa trabalhar durante a graduação (`QE_I10`) combinando o financiamento/bolsa recebido (`QE_I11`) e o turno do curso (`CO_TURNO_GRADUACAO`).
 * **Fontes de Dados:** `microdados2023_arq2.txt` (Turno), `microdados2023_arq16.txt` (Trabalho `QE_I10`) e `microdados2023_arq17.txt` (Bolsa/Financiamento `QE_I11`).
 * **Roteiro Didático de Execução:**
